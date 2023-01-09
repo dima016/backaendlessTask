@@ -20,4 +20,4 @@ be asked during tech interview for Java Developer with 2+ years commercial exper
 У випадку, якщо тварина може їсти і мясо, і плантацію - можна додавати новий класс та розширювати можливості тварин.
 
 Відкоригована діаграмма
-![](Screen Shot 2023-01-09 at 8.16.39 PM.png)
+![](answer.png)
